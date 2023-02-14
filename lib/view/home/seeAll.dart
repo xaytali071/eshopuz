@@ -12,7 +12,7 @@ class AllProductScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final state = context.watch<HomeController>();
-    final event = context.watch<HomeController>();
+    final event = context.read<HomeController>();
     return state.isProductLoading
         ? const Center(child: CircularProgressIndicator())
         : ListView.builder(
