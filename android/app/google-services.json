@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "956581034378",
+    "project_id": "eshopuz-3c863",
+    "storage_bucket": "eshopuz-3c863.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956581034378:android:56fd3a871d76b8eb6e7073",
+        "android_client_info": {
+          "package_name": "com.example.eshopuz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956581034378-oa2vq66ha0ksrkqhn5b5hgacsvsess0u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eshopuz",
+            "certificate_hash": "1a2a86a78b6aa82dd5cbf79e33b28353edd2c547"
+          }
+        },
+        {
+          "client_id": "956581034378-c68h7g5v4ip2j10rscoe6tls38d0sjmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsjb2-bkljsDLY5kdzZxJ2S7Vl_oKHb-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956581034378-c68h7g5v4ip2j10rscoe6tls38d0sjmc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "956581034378-qeka94p0te8l2n1jo4vheqrppfjsi1eq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eshopuz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
